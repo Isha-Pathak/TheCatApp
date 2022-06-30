@@ -1,0 +1,132 @@
+[
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "a5",
+    "url": "https://cdn2.thecatapi.com/images/a5.jpg",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "au",
+    "url": "https://cdn2.thecatapi.com/images/au.jpg",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "bh",
+    "url": "https://cdn2.thecatapi.com/images/bh.jpg",
+    "width": 339,
+    "height": 500
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "bi",
+    "url": "https://cdn2.thecatapi.com/images/bi.jpg",
+    "width": 500,
+    "height": 381
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "bk",
+    "url": "https://cdn2.thecatapi.com/images/bk.jpg",
+    "width": 468,
+    "height": 564
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "150",
+    "url": "https://cdn2.thecatapi.com/images/150.jpg",
+    "width": 500,
+    "height": 375
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "152",
+    "url": "https://cdn2.thecatapi.com/images/152.jpg",
+    "width": 700,
+    "height": 490
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "15m",
+    "url": "https://cdn2.thecatapi.com/images/15m.jpg",
+    "width": 500,
+    "height": 333
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "15v",
+    "url": "https://cdn2.thecatapi.com/images/15v.jpg",
+    "width": 400,
+    "height": 383
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 4,
+        "name": "sunglasses"
+      }
+    ],
+    "id": "163",
+    "url": "https://cdn2.thecatapi.com/images/163.jpg",
+    "width": 640,
+    "height": 480
+  }
+]
